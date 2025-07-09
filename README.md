@@ -29,7 +29,7 @@ Using SMOTE with Tomek Links significantly improved recall on the minority class
 
 ## Future Improvements
 - Evaluate advanced ensemble methods (e.g., XGBoost, LightGBM)
-- Perform feature importance analysis to improve interpretability
+- Explore other methods to handle class imbalance
 - Explore cost-sensitive learning approaches
 
 ---
