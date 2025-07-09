@@ -21,7 +21,7 @@ Develop a credit risk model to identify potentially delinquent loans, enabling b
 
 ## Challenges
 - Severe class imbalance (0.34% positive class)
-- Need for metrics beyond accuracy (e.g., recall and PR AUC)
+- Need for metrics beyond accuracy (e.g., recall, precision, AUC-ROC)
 - Managing noise and overlapping classes when oversampling
 
 ## Results
